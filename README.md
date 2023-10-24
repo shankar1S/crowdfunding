@@ -7,7 +7,7 @@ To run
   go to the directorary in the terminal & run: < npm run deploy  >
 
   For deployment of the this Decentralized Crowdfunding platform it requires,
-  Transaction Fee:  0.001338027815525883 ETH($0.00)
-  Value:             0 ETH($0.00)
+  Transaction Fee:  0.001338027815525883 ETH($0.00), 
+  Value:             0 ETH($0.00),
   at this Timestamp: (Oct-24-2023 01:34:48 PM +UTC)
 
